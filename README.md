@@ -1,6 +1,6 @@
 # cmdbypasser
 Use this to bypass your 'accidentally' blocked command prompt.
-[Latest release here]()
+[Latest release here](https://github.com/mastrpcs/cmdbypasser/releases/latest)
 
 
 ## Usage:
